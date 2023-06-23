@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **C++, C#, Python, PyTorch, Deep Learning, OpenGL, Computer Vision Tasks, Autonomous Vehicles, GPU Embedded Systems, Real-Time**
 
-- 📄 Know about my experiences ([CV](https://drive.google.com/file/d/1Jo9p9F-wHwl1RjxZTA8LpOxzjl-L0AUL/view?usp=sharing))
-
 </p>
 
 
