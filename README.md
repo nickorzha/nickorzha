@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickorzha&label=Profile%20views&color=0e75b6&style=flat" alt="nickorzha" /> </p>
 
-- 🌱 I have experience in developing software using C++, C#, .Net Framework, QT, OpenGL and OpenCV.
+- 🌱 I have experience in developing software using C, C++, C#, .Net Framework, QT, OpenGL and OpenCV.
   
 - 🌱 I’m currently learning Efficient Deep Learning, Neural Architecture Search.
 
