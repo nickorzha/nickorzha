@@ -5,9 +5,9 @@
 
 - 🌱 I have experience in developing software using C, C++, C#, .Net Framework, QT, OpenGL and OpenCV.
   
-- 🌱 I’m currently learning Efficient Deep Learning, Neural Architecture Search.
+- 🌱 I’m an expert in Machine Learning, Deep Learning and Neural Network Architecture fields.
 
-- 💬 Ask me about **C++, C#, Python, PyTorch, Deep Learning, OpenGL, Computer Vision Tasks, Autonomous Vehicles, GPU Embedded Systems, Real-Time**
+- 💬 Ask me about **C++, C#, Python, PyTorch, Deep Learning, OpenGL, Computer Vision Tasks, GPU Embedded Systems, Real-Time**
 
 </p>
 
